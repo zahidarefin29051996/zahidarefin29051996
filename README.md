@@ -50,7 +50,7 @@ Having worked in IT support and as a system engineer for three years, my passion
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-IT Operations Specialist – CIOS-006400?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-IoT Essentials for System Engineers (IOTSE)-000080?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-ITIL 4 Fundamentals - Essentials of IT Service Management-FF69B4?&style=for-the-badge&logo=Alison&logoColor=white" />
+<img src="https://img.shields.io/badge/-ITIL 4 Fundamentals - Essentials of IT Service Management-FF69B4?&style=for-the-badge&logoColor=white" />
 <!-- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
 </div>
