@@ -8,19 +8,19 @@ As a recent IT graduate, I'm passionate about technology and dedicated to solvin
 Having worked in IT support and as a system engineer for three years, my passion for the field has only grown. I've developed a strong interest in network and system engineering and cybersecurity, and I'm excited to bring my skills to a new role in the IT industry.
 
 ## Skills
-//[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!-- [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Cryptography, Email Forensic Investigation, Phishing Attack and Investigation          | Logix Academy |
+<!-- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
 
 ## Tools
-// [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]-->
 
 ### Network
 <div>
@@ -37,10 +37,10 @@ Having worked in IT support and as a system engineer for three years, my passion
 
 ### SIEM
 <div>
-<!--     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+<!-- <!--     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
-</div>
+</div> 
 
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
