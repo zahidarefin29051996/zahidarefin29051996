@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**zahidarefin29051996/zahidarefin29051996** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
+- 📄 **Resume:** [View / Download Resume](./docs/Resume.pdf)
+- 🌐 **LinkedIn:** [Your LinkedIn Profile URL](https://linkedin.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Education & Degree
+- **Master's Degree**
+  - 📜 [View Degree Certificate](./docs/Degree.pdf)
+
+---
+
+## 📜 Certifications & Training
+### Professional Certifications
+- **Udemy Certificate** — [View Certificate](./docs/certs/Udemy-Certificate.pdf)
+
+### Lab Reports
+- **Pluralsight Lab Report** — [View Lab Report](./docs/labs/Pluralsight-Lab.pdf)
+
+---
+
+## 🛠 Skills
+- **Systems & Cloud:** AWS, Windows Server, Linux
+- **Networking & Security:** Active Directory, DNS, Storage Services
