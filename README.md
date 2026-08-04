@@ -4,7 +4,7 @@
 
 ## 👨‍💻 About Me
 - 📄 **Resume:** [View / Download Resume](./docs/Resume.pdf)
-- 🌐 **LinkedIn:** https://www.linkedin.com/in/zahidarefin0529/(https://linkedin.com)
+- 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/zahidarefin0529)
 
 ---
 
