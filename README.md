@@ -3,12 +3,19 @@
 ---
 
 ## 👨‍💻 About Me
+
+Passionate IT professional with expertise in cloud infrastructure, systems engineering, and cybersecurity. Experienced in managing enterprise IT environments, system administration, and modernizing cloud solutions. Dedicated to continuous hands-on learning through real-world labs and industry certifications.
+
 - 📄 **Resume:** [View / Download Resume](./docs/Resume.pdf)
 - 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/zahidarefin0529)
+- ✉️ **Email:** zahidarefin2905@outlook.com
+- 📍 **Location:** Richardson, Texas, United States
 
 ---
 
 ## 🎓 Education & Degree
+- **Bachelor's Degree**
+  - 📜 [View Degree Certificate](./docs/Degree.pdf)
 - **Master's Degree**
   - 📜 [View Degree Certificate](./docs/Degree.pdf)
 
