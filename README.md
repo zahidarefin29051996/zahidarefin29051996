@@ -6,7 +6,7 @@
 
 Passionate IT professional with expertise in cloud infrastructure, systems engineering, and cybersecurity. Experienced in managing enterprise IT environments, system administration, and modernizing cloud solutions. Dedicated to continuous hands-on learning through real-world labs and industry certifications.
 
-- 📄 **Resume:** <a href="./docs/Resume.pdf" target="_blank">View / Download Resume</a>
+- 📄 **Resume:** <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/Zahid_Arefin_Resume.pdf" target="_blank">View / Download Resume</a>
 - 🌐 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/zahidarefin0529)
 - ✉️ **Email:** zahidarefin2905@outlook.com
 - 📍 **Location:** Richardson, Texas, United States
