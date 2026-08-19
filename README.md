@@ -14,10 +14,12 @@ Passionate IT professional with expertise in cloud infrastructure, systems engin
 ---
 
 ## 🎓 Education & Degree
-- **Bachelor's Degree**
-  - 📜 [View Degree Certificate](./docs/Degree.pdf)
-- **Master's Degree**
-  - 📜 [View Degree Certificate](./docs/Degree.pdf)
+
+* **Master of Science in Information Technology Management** — *Western Governors University*
+  * 📜 <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/MdZahidArefin-Certificate-Master.pdf" target="_blank">View Degree Certificate</a>
+
+* **Bachelor of Science in Information Technology** — *Western Governors University*
+  * 📜 <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/MdZahidArefin-Certificate-Bachelor.pdf" target="_blank">View Degree Certificate</a>
 
 ---
 
