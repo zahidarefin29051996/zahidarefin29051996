@@ -30,10 +30,11 @@ Passionate IT professional with expertise in cloud infrastructure, systems engin
 ---
 
 ## 📜 Certifications & Training
-### Professional Certifications
-- **Udemy Certificate** — [View Certificate](./docs/certs/Udemy-Certificate.pdf)
 
-### Lab Reports
-- **Pluralsight Lab Report** — [View Lab Report](./docs/labs/Pluralsight-Lab.pdf)
+* <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/industry-certificates/CompTIA%20A%2B.pdf" target="_blank">CompTIA A+</a>
+* <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/industry-certificates/CompTIA%20Network%2B.pdf" target="_blank">CompTIA Network+</a>
+* <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/industry-certificates/Infosys%20Certified%20ITIL4%20Foundation%20Associate.pdf" target="_blank">Infosys Certified ITIL4 Foundation Associate</a>
+* <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/industry-certificates/Infosys%20Certified%20Network%20Associate.pdf" target="_blank">Infosys Certified Network Associate</a>
+* <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/industry-certificates/LE-1.pdf" target="_blank">Linux Essentials</a>
 
 ---
