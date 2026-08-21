@@ -13,7 +13,13 @@ Passionate IT professional with expertise in cloud infrastructure, systems engin
 
 ---
 
-## 🎓 Education & Degree
+## 🛠 Skills
+- **Systems & Cloud:** AWS, Windows Server, Linux
+- **Networking & Security:** Active Directory, DNS, Storage Services
+
+---
+
+## 🎓 Education
 
 * **Master of Science in Information Technology Management** — *Western Governors University*
   * 📜 <a href="https://github.com/zahidarefin29051996/zahidarefin29051996/blob/main/docs/academic-certificates/MdZahidArefin-Certificate-Master.pdf" target="_blank">View Degree Certificate</a>
@@ -31,7 +37,3 @@ Passionate IT professional with expertise in cloud infrastructure, systems engin
 - **Pluralsight Lab Report** — [View Lab Report](./docs/labs/Pluralsight-Lab.pdf)
 
 ---
-
-## 🛠 Skills
-- **Systems & Cloud:** AWS, Windows Server, Linux
-- **Networking & Security:** Active Directory, DNS, Storage Services
